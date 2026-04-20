@@ -6,7 +6,7 @@ A full-stack web application that detects Twitter bot accounts using machine lea
 ---
 
 ## 📌 Overview  
-BotShield is designed to identify fake or automated Twitter accounts by analyzing user behavior and metadata.  
+BotDetect is designed to identify fake or automated Twitter accounts by analyzing user behavior and metadata.  
 It combines a modern frontend with a Python-based backend and trained ML models.
 
 ---
